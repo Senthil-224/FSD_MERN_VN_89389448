@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.13.2",
+    "bootstrap": "^5.3.8",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.1.11",
+    "router-dom": "^3.0.3"
+  }
+}
